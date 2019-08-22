@@ -50,8 +50,8 @@
 	 font-size: 20px;
 	 padding-top: 20px;
 	 padding-right: 20px;
-	 display: inline block;
-	 margin-block-end: 0%;
+	 display: inline-block;
+	 
 	 
 	 
  }
@@ -75,6 +75,7 @@
 .contact-form-wrapper{
 display: inline-block;
 margin: 0px;
+display: inline-block;
 
 }
 
@@ -113,4 +114,23 @@ margin: 0px;
  
  
  
- /*Learned about what "em" does and thats more useful rather than figuring out pixel dimensions. I left some pixel amounts int the code so use them interchangebly. :D*/
+ /*
+ 
+ NOTES:
+ 
+ I COULD NOT FOR THE LIFE OF ME, GET MY BACKGROUND TO LOAD. THE FILE PATH IS CORRECT.
+ I HAD DIFFICULTY GETTING MY IMAGES TO STACK (SEE: SOCIAL MEDIA ICONS.) I WANTED IT TO LOOK LIKE:
+
+ CONTACT
+ -----
+ TEXT
+ -----
+ MESSAGE BOX
+ -----
+ SOCIAL MEDIA LINKS
+
+ OBVIOUSLY I DIDN'T GET IT.
+
+ ADDITIONALLY I MAY HAVE TOO MANY OVERRIDING <DIV TAGS> WHICH IS WHY ABOVE WAS HARD.
+
+ */
