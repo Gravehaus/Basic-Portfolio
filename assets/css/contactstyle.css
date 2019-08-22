@@ -1,0 +1,46 @@
+body{
+    margin:0;
+    padding:0;
+    text-align: center;
+    background-color: white;
+}
+
+.contact-title{
+    margin-top: 100px;
+    color:#777777;
+}
+
+.contact-title h1{
+    font-size:32px;
+    line-height:10px;
+}
+
+.contact-title h2{
+    font-size: 16px;
+}
+
+form{
+    margin-top: 100px;
+}
+
+.form-control{
+    width: 320px;
+    color:#777777;
+    outline: #777777;
+    border-bottom: 1px, #777777;
+    font-size: 16px;
+    margin-bottom: 16px;
+}
+
+input{
+    height: 25px;
+}
+
+form .submit{
+    background:#4aaaa5;
+    color: white;
+    border: 1px, solid, #777777;
+    font-size:16px;
+
+
+}
